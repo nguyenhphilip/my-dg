@@ -2,4 +2,14 @@ enableLegend: false
 enableDrag: true
 enableZoom: true
 paths:
-  - /moc: "#4388cc"
+  - /notes/statistics: "#4388cc"
+  - /notes/ABCD: "#CBCB16"
+  - /notes/health: "#89E025"
+  - /notes/ideas: "#25E0DC"
+  - /notes/learning: "#2563E0"
+  - /notes/mental-health: "#6025E0"
+  - /notes/neuro: "#E025DA"
+  - /notes/Poems: "#6E0725"
+  - /notes/psychology: "#645E60"
+  - /notes/relationships: "#FF00FB"
+  
