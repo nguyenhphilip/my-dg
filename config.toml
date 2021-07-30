@@ -1,4 +1,4 @@
-baseURL = "https://nguyenhphilip.github.io/my-dg/"
+baseURL = "https://nguyenhphilip.github.io/"
 languageCode = "en-us"
 googleAnalytics = ""
 pygmentsUseClasses = true
