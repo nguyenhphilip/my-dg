@@ -1,0 +1,7 @@
+---
+title: psilocybin
+creation date: 2021-02-28 05:53
+---
+
+### [Peter Attia on the question of how to administer this drug at scale](https://peterattiamd.com/promise-and-challenges-for-psilocybin-and-mdma-use-in-treatment/)
+- Part of the difficulty involves the subjective and personal experience of the trip. Set and setting are important. Should medical practitioners who prescribe these drugs have personal experience? I can imagine that there are some people who just won't, and if prior experience is necessary, we may be doing a disservice to those who would otherwise be helped with the use of these compounds, at least at scale. But is this something that should be prescribed in the same way that traditional drugs are for pain or colds? And what are the incentives for pharma companies to produce this if it can't be done at scale like other drugs, aka it is financially not feasible? My sense is that it shouldn't be done at this scale because the compounds are so powerful. And yet, maybe there is a way to do it safely. Maybe you need to somehow show that either you have someone you trust to guide you through the trip (risky and flimsy). Maybe you can hire on-call trip-sitters, or schedule trip-sits, and once verified, you can get the drug and go ahead and do it.

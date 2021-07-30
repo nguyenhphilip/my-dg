@@ -1,0 +1,82 @@
+---
+title: Love as a Way of Being
+creation date: 2020-10-25 14:36
+---
+
+Love is a term traditionally reserved for significant others, parents and family, and at times friends with whom we are close to. But the true audacity of love emerges when we embrace it as a way of being. 
+- Shirley
+    - 6/16/20
+        - **Me: **
+        - Yeah, we’ve hung out here and there actually. A lot of the time it felt like I was holding back some of me and my love because I wanted her to reciprocate and act in a way that was aligned with what I expected. But on Saturday, I don’t know what happened, maybe it was all of the stuff I’ve been reading, but I just let go of those things and enjoyed myself fully in her presence. I loved her just as a person, for her vulnerabilities, for her as a being. It felt really fucking nice. I guess I had been somewhat resenting her deep down, and had been hanging onto that after I broke up with her.
+        - I think so. Like when she would text me, I would just feel burdened to respond, like she was intruding on me or something like that.
+        - I just didn’t feel like I was treating her as well as I could have been, like I was holding back the best parts of me.
+        - You know what it was also? After getting ice cream with that medical student who made me feel totally irrelevant, I thought about Olivia and how hard she tried to get me to open up, how much she genuinely enjoyed being with me, how much she actually liked me.
+        - This seems to be a recurring lesson: when love is a way of being, you feel limitless, like anything is possible.
+        - So I’m trying to think about that more.
+        - In this mindset, hate has no place. It makes no logical sense.
+        - You see the suffering and conditions that lead to the suffering of others, and you realize that you are also a part of it, and that all of you are participants in a shared existence.
+        - This sort of meta-awareness/way of being... I think this is what deepened my love for my parents, especially my mom.
+        - Sometimes it doesn’t help in the moment, like when I was walking home from getting ice cream with that medical student, lol, but it does help you get over those little things more quickly.
+        - It’s funny how our perceptions of our relationships shape what we say and think we can say. I feel like I can say anything to you, which is probably the quality I look for most in a relationship.
+    - 6/17/20
+        - **Shirley Yang:**
+        - 	You said you resented Olivia?
+        - **Phil Nguyen:**
+        - 	It felt that way sometimes, yeah
+        - **Shirley Yang:**
+        - 	To keep it short, I resented Patrick too. In the same way.
+        - 	Stems from the obligation to always be the stronger and more directional partner, talking and texting at times felt obligatory, and being in the relationship sometimes felt like an intrusion on my freedom.
+        - **Phil Nguyen:**
+        - 	Yeah. I only realize now that part of it was also that I was still learning how to just ‘be’ with someone new.
+        - 	That requires a bit of stretching and learning, and I didn’t know how to integrate it gracefully within the solitary life I am used to.
+        - **Shirley Yang:**
+        - 	I also didn’t feel like I was treating him as well as I could have been. Though I love him deeply, I felt like he wasn’t doing the necessary soul work to grow as a person so that deep emotional connection that I was yearning for was left untouched. And I deeply desired that kind of soul intimacy. It made me resent him  and not want to give the best of me to him.
+        - **Phil Nguyen:**
+        - 	Mmm. Yeah. I think that contributed too. I realize though that it’s not something I want to force upon people, because I think people do that sort of thing at their own pace. For me it shifts. Some days I just want to live my life and be dumb and not have to feel like I’m doing something purposeful or larger than myself. Others I do. Right now, I want to be a bit more disciplined and less self-oriented and more focused on just how I can do my best to be useful to others, to make connections with people, and not to worry so much.
+        - **Shirley Yang:**
+        - 	We put a pause on the relationship and hung it up to focus on our own self-growth.
+        - But I’m not sure how that will work out if I’m being honest. Growth can’t be pushed on to people, I’ve learned.
+        - Patrick tends to slip into complacency. Being with me was like attaching a cord to an energy source of happiness. Our relationship became an avenue for him to derive happiness from when deep down, he was really unhappy with himself and was too afraid to discover himself.
+        - I resented him for treating me like a happiness tank. It felt heavy and cumbersome. And I wanted him to grow beyond his dependence on me.
+        - 	If I take one step in a room, this is a man who also takes one step in the direction I just took. It comes without question. I don’t even think he notices that he does it.
+        - I just wanted him to be his own person and to have his own piece of earth, something to call his own. I didn’t want that thing to be me though.
+        - **Phil Nguyen:**
+        - 	It really can’t be pushed. At all. It’s something I’ve learned too. Better to meet people where they’re at, be graceful, and to lead by example. I don’t think it’s wrong to expect certain things or to want your partner to grow, but it can’t be forced.
+        - **Shirley Yang:**
+        - 	I felt that I was being forceful about growth by being in the relationship because the resentment was constantly looming over me.
+        - But now that we are apart, I feel more patient and compassionate for him. The space let’s me lend some grace and him time to reflect and focus.
+        - 	I’m working on accepting the fact that unless I’m going to date someone significantly older (which I have no desire to), I will often be the more emotionally and spiritually developed partner.
+        - **Phil Nguyen:**
+        - 	Part of emotional and spiritual maturity is accepting that how compatible you are isn't as important as how you manage the differences. It’s easier to see that once you’re removed from the expectations that have consciously and unconsciously defined the nature of your relationship.
+        - **Shirley Yang:**
+        - 	Exactly.
+        - I’m thinking of meditating on that resentment. Exploring it more fully and understanding it’s source.
+        - 	Also, I have overlapping love interests, as always. That’s another story.
+        - 	This whole being “single” thing is a total trip.
+        - **Phil Nguyen:**
+        - 	Lol. Cue “welcome to my life” by Simple Plan.
+        - For me, in my prior short relationships, I think my neuroses relate to thinking I can do better, like there’s someone out there I’m better suited for with deeper chemistry. I'm always riddled with the what-ifs, beyond relationships too. I think a sign of growth for me would be to commit even deeper to the people and things I am doing already.
+        - **Shirley Yang:**
+        - 	You are me but the male version.
+        - **Phil Nguyen:**
+        - 	There’s a lot more I need to learn to let go of than I thought.
+        - 	I think I want too much all at once. Less is more for me right now.
+        - 	I think I have everything I need in my life right now, just need to reframe my priorities and focus on the right things.
+        - 	School, being useful to others, some books and writing, being outside, friends. That’s it.
+        - **Shirley Yang:**
+        - 	Likewise. I am downsizing.
+        - 	I find that when I have less, I have a deeper appreciation for what I do have because I have more time and energy to expend.
+        - **Phil Nguyen:**
+        - 	Energy is so key. I don’t have any when I’m stretching myself in five million directions, which is the opposite of mindfulness and mindful living. This brings to mind an experience I had where I went hiking. While my friend was getting some water, I stared at a tree and noticed that the longer I looked, the more that life deepened and emerged.
+        - 	Like everyone goes to a museum and tries to see everything, but the magic and emotional connection happens when you spend time with just one piece.
+        - **Shirley Yang:**
+        - 	THIS!!!!
+        - 	Yes, this resonates with me.
+        - **Phil Nguyen:**
+        - 	I talked with my Hungarian friend today and told her that it feels like I’ve been planning my escape for the past year when I should have been learning how to live more deeply with what I have.
+        - 	Which isn’t to say I shouldn’t have goals or dreams, but those things naturally come and form in the process.
+        - 	Sleepy time. Good night!
+        - **Shirley Yang:**
+        - 	To the museum and tree — it reminds me of something my Dad said about the art of choosing life partners. He said people often love others who sweep them off their feet, that kind of heart throbbing exciting love that millennial poets are all the rage about. Sometimes that lends itself to the impossible task of searching for the best, ideal person and the highest kind of high that a person can feel when they are in love.
+        - But when choosing a life partner, it’s not much easier but the process is simpler. It’s important to choose someone you trust, someone who makes you feel safe. And someone who becomes more interesting and all the more beautiful over the years as you spend time with them.
+        - 	My last tid bit, night!

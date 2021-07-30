@@ -1,0 +1,12 @@
+---
+title: Choosing Prediction Over Explanation in Psychology
+tags: [machine-learning, statistics, bayesian]
+---
+
+Abstract:
+
+> [Psychology](notes/psychology/Psychology.md) has historically been concerned, first and foremost, with explaining the causal mechanisms that give rise to behavior. Randomized, tightly controlled experiments are enshrined as the gold standard of psychological research, and there are endless investigations of the various mediating and moderating variables that govern various behaviors. We argue that psychology’s near-total focus on explaining the causes of behavior has led much of the field to be populated by research programs that provide intricate theories of psychological mechanism but that have little (or unknown) ability to predict future behaviors with any appreciable accuracy. We propose that principles and techniques from the field of [machine learning](notes/statistics/machine-learning.md) can help psychology become a more predictive science. We review some of the fundamental concepts and tools of machine learning and point out examples where these concepts have been used to conduct interesting and important psychological research that focuses on predictive research questions. We suggest that an increased focus on prediction, rather than explanation, can ultimately lead us to greater understanding of behavior.
+
+Conclusion:
+
+>  In an influential statistics paper, Breiman (2001b - [Statistical Modeling The Two Cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf)]) argued that there are two cultures in statistical modeling. The vast majority of statisticians belong to the “data modeling culture,” in which data are assumed to arise from a particular data-generating process, and the primary goal is to estimate the true parameters of this process. By contrast, a minority of statisticians (and most [machine learning](notes/statistics/machine-learning.md) researchers) belong to the “algorithmic modeling culture,” in which the data are assumed to be the result of some unknown and possibly unknowable process and the primary goal is to find an algorithm that results in the same outputs as this process given the same inputs. These two cultures align quite closely with what we have called the explanation-focused and prediction-focused approaches to science, respectively. Our argument has been that psychologists stand to gain a lot by relaxing their emphasis on identifying the causal mechanisms governing behavior and focusing to a greater extent on predictive accuracy.

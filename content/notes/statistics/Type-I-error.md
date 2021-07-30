@@ -1,0 +1,3 @@
+---
+title: Type I error
+---

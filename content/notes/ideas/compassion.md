@@ -1,0 +1,11 @@
+---
+title: compassion
+---
+
+A large part of compassion is about perspective and tolerance. Perspective invites compassion by recognizing the context surrounding people. Age is a prime example. Older folks are often seen as abrasive, blunt, and downright rude. Unaware of the times, lacking perspective. While this is sometimes the case, there's reason to give them the benefit of the doubt. For one it's likely that their mental and physical faculties are in decline, which isn't an excuse, but it is a truth that can lead us to simply laugh and brush off the offputting interactions you have with them. Recognizing that they were born and raised in a different time than us can have a similar effect.
+
+But if they've got more life experience and wisdom as is generally believed, why do they seem/are so stuck in their ways? Why can't they see things from our perspective, or how they themselves are acting? Valid.
+
+Of course, this doesn't just apply to older folks. I still find myself getting annoyed by the inconsequential, mundane, daily affairs involved with living in an interconnected world. We're all part of this giant game, and knowing that, when I'm at my best, helps me be a better player. I can be kinder to myself and others, more fun and loving, like I usually am when the moment takes me myself. 
+
+Perspective and compassion build off of each other and subsequently lead to tolerance. I find this to be most true of my relationship in my mom. She has said some things recently that can certainly be labeled racist. To my sister it was. We had a tense conversation about it where I was attempting to get my sister to understand the context surrounding why our mom might be saying these things. It was difficult, but I found that by the end of the conversation the energy was less tense. It seemed that she just "got it", and she knew that it was unlikely that mom would change, but also that it was, for the most part, harmless considering the way she leads her life and who she interacts with. The only worry I have is the implicit messages this sort of thing can send to my little brother, but I'm hopeful that this will be offset by his friends. That's one of the greatest benefits of friendship: granting other perspectives that go beyond that of your parents. If your parents are like mine – traditional, geared towards family, 

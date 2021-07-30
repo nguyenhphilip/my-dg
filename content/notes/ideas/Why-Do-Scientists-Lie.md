@@ -1,0 +1,33 @@
+---
+title: why do scientists lie
+author: [Liam Kofi Bright]
+tags: [science, incentives, academia]
+---
+
+- Abstract: 
+	- It’s natural to think of scientists as truth seekers, people driven by an intense curiosity to understand the natural world. Yet this picture of scientists and scientific inquiry sits uncomfortably with the reality and prevalence of scientific fraud. If one wants to get at the truth about nature, why lie? Won’t that just set inquiry back, as people pursue false leads? To understand why this occurs – and what can be done about it – we need to understand the *social structures *scientists work within, and how some of the institutions which enable science to be such a successful endeavour all things considered, also abet and encourage fraud.
+- One example of scientific fraud: Brian Wansink
+- Topic: The psychology of eating
+- Findings:
+- People who shop hungry tend to buy more calories
+- Preordering lunch can help you choose healthier food
+- Serving people out of large bowls encourage them to serve themselves larger portions
+- Scientists as credit seekers, as motivated by an incentive structure that pushes them to gain and guard esteem within a community:
+	- So sociologists of science tell us! Starting with the pioneering work of Robert Merton in the 1960s (Merton, 1968; 1969) it has become increasingly common to talk of scientists as ‘credit seekers’. That is to say, people who seek the honour, esteem, glory, of being well regarded in their field. To be a scientific credit seeker is to be someone who seeks status within a community, the community of peers in a scientific discipline. While there are still puzzles about how precisely to understand what counts as the relevant credit-conferring community (c.f. Lee, 2018), there is broad consensus that roughly put this is something that many scientists are in fact driven by. This can be at the level of individual motivation – science comes with a steep prestige and status hierarchy (Zuckerman, 1970; Cole & Cole, 1974) and scientists tend to want to climb that hierarchy. But even if they are not personally concerned with this, the way we have institutionally arranged science can essentially mandate acting as if one was such an honour, or credit, seeker.
+- On the inescapability of it, since we have limited resources
+	-  We hand out resources through grants and prizes, we decide who gets a job and where, we decide which students will be placed with which academics – we do all of these tasks and many more in academia – primarily by deciding how ‘impressive’ we find candidates (Partha & David, 1994; Stephan, 1996). The informal judgements scientists routinely make about the quality of one another’s work, and the potential or intellectual capacity of the scientists doing the work, are not just the stuff of idle gossip, but an essential element of how we in fact allocate the resources necessary to carry out scientific research. Hence even if you do not intrinsically care about your standing in the scientific community, if you want access to the resources necessary to play the game at all, you have to in fact gain scientific acclaim (Latour & Woolger, 1979, ch. 5). Hence everyone must to some extent act as if they are a credit-seeker.
+- And the problem of a credit seeking structure:
+	- Scientists want and need credit for new results. To ensure their results are new, i,e, novel enough to have a plausible claim to establishing priority, scientists have to do their work sufficiently quickly that nobody else beats them to the punch (often referred to as being ‘scooped’ on a claim). And it is here problems arise.
+	- First, there are all sorts of points in the typical research process where scientists have relatively unconstrained choices to make about how to proceed, and an unscrupulous actor can mask questionable research practices by strategic choices (Simmons et al, 2011). In such a scenario the need for speed can produce temptations to cut corners and work to a lower standard (Heesen, 2018). This sort of perfidy seems to have been involved in Wansink’s case, for instance. 
+	- Second, even more brazen types of sheer data fabrication can be induced, in order to make results seem stronger and more interesting, sufficiently well supported to be worth publishing, or even just to wholesale invent phenomena.
+	- Third and finally, the emphasis on novelty disincentives the sort of replication and checking work that would make catching fraudulent or unsupported claims more likely, removing or greatly reducing the threat of punishment that might otherwise deter fraud.
+- A possible solution?
+	- If the problem with scientists is that their desire for honour and esteem, credit, is tempting them to cut corners and commit fraud, we should try to discourage such gloryseeking behaviour. This can happen through motive modification (advocated in Du Bois, 1898; see Bright, 2018). In this sort of scheme one tries to both filter for scientists who are more concerned with the quest for truth than glory seeking when one looks for junior researchers. And one also engages in a kind of soul crafting (Appiah, 2005, ch.5), using the educational and cultural institutions of science to mould researchers’ desires and sense of identity to be focussed much more on truth-seeking than worldly acclaim.
+	- The only issue I have with this is that the structure of the academic system itself may be more powerful and motivating than an individual's *nous*. Scientists and researchers still have to eat, and as long as they work in this kind of system, one that provides resources and esteem and therefore security via publication quantity, the quality will be constrained.
+- Spicy:
+	- Researchers from multiple different fields using multiple different methods have tended to arrive at that conclusion, ==it’s about as well validated a causal claim as one is going to get in the social sciences==
+	- Sometimes credit seeking can produce benefits, as in the case of scientific sharing: by granting credits via sharing, you incentivize the production of work that can be shared.
+- It's hard:
+	-  We have a good understanding of various of the effects of credit – we know how it can encourage fraud, and we also know how it encourages pluralism and sharing of one’s work...
+	- So where does that leave us, and what should we do? I don’t know. Philosophy is hard.
+	- That is to say, we do not have a sufficiently general and well confirmed theory of science as a social phenomenon that we can confidently predict and assess the overall effects of modifying our culture or institutional structure so as to decrease the significance of scientific thumos

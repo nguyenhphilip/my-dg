@@ -1,0 +1,71 @@
+---
+title: Social Network Analysis
+---
+
+- meta::
+    - [link](https://www.youtube.com/watch?v=2ZHuj8uBinM&ab_channel=TheAlanTuringInstitute)
+    - Dr. Bernie Hogan
+- Intro to Social Network Analysis (sociologists)
+    - Different from Network Science (physicists)
+- How to link microlevel behaviors to macroscopic phenomenon (different scales; people to culture; citizens to institutions)
+- view social structure on many levels
+    - global: facebook connections between countries, visualized as world map
+    - local: personal network
+- types of questions:
+    - descriptive
+        - how polarized is a voting network
+        - how different is what i'm reading different from what another person in a different network is reading? i.e. different "echo chambers"
+        - overtime networks evolve into two polarized sides
+        - age clusters - how are networks assorted? people of similar age vs different age
+        - may seem like clusters are bad, but not necessarily true - they're efficient
+            - but too much efficiency could be detrimental i.e. how networks are formed matters
+                - a network can be formed if they all get their information from one common node
+        - small worlds - between inefficient and most efficient networks
+    - analytic
+- Classic Findings
+    - **The strength of weak ties**
+        - for some types of info, our weak ties are more useful than our strong ties
+            - i.e. people in your close ties network might not have info for a job you're searching for
+                - but weak ties might not give you that info because it's a weak tie.. lots of caveats
+        - based on **Social Balance Theory**
+            - "The enemy of my enemy is my friend"
+            - Some networks are 'unbalanced', thus implying they are unstable. conversely with balanced triads
+            - other form 'Triadic Closure'
+                - less tense than unbalanced polar triads (e.g. geopolitical tensions - China, NK, US)
+        - People tend to want their close friends to know each other
+        - as they 'close these triads' they create clustering
+        - information circulates faster within clusters
+        - People of like type cluster together
+    - **The six degrees of separation**
+        - Everyone in the world is connected to at least someone else by virtual of birth
+        - on average how many hops/steps would it take to get from one to another
+        - Milgram asked people to send a package from Nebraska to Boston
+        - The median chain of referrals was six. Hence the six degrees of separation.
+        - Recent 2017 Facebook study reduced it to 3.5 degrees. The average person is connected to every other person by an average of 3.57 steps (the friend of a friend of a friend is my friend)
+    - **Community, lost, Saved, or Transformed?**
+        - With shift to modernity via cars, telephones and urbanization, fears of 'community' is disappearing
+        - less local community and more personal (online) communities -- just as supportive and resilient though
+- Units of Analysis: 
+    - Position
+        - Node position relative to other nodes (relational rather than spatial space)
+        - **Degree centrality** is a score for having more links (it's more central, more connections to it), where a link is considered a degree
+            - Edge = two-way connection
+            - Arc = follow - one-way connection
+            - When links represent a message, nodes with higher in-degree are more popular (think of someone who gets lots of DMs on Twitter)
+                - Hubs - lots of people pointing to that source (i.e. NY Times, BBC, Amazon), high in-degree
+            - Nodes with more out-degree are more authoritative (think of someone who has lots of people to DM to)
+                - Authority - Google sends lots of information out, high out-degree
+        - **Degree Distributions**: observed social networks typically show a highly skewed distribution. Typically follow a power-law. 
+            - No average websites - either huge connectivity, or low-key singular websites (i.e. personal blogs)
+            - neuron connectivity
+            - roads and intersections
+    - Micro
+        - **Homophily**: individuals of like type are particular prone to linking to one another
+            - baseline - how much you would expect by chance. In-breeding homophily is homophily over and above this value (more than chance).
+            - measuring:
+                - EI index: take partition of any sort (blue-eyed vs dark-eyed), count ties from one partition to the other, then count all the ties inside, and divide by total (external ties - internal ties) / (eternal + internal)
+                - Yule's Q: EI normalized by proportion in same and different category
+                - Assortativity: Newman's measure for considering the propensity of like to link to like. Can also be considered categorical.
+    - Meso
+        - Communities: clusters of nodes tend to group together. Where there are more nodes within a group than between a group
+        - Community detection is one of the most common tools in network analysis outside of looking for node position. Communities tend to emerge based on micro level processes

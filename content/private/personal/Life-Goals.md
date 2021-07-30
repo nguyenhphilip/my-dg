@@ -1,0 +1,16 @@
+- Learn [French](French.md)
+- Learn how to draw
+- Write a book – allegorical / fiction / children’s moral and character
+	- the memory orphanage
+- Travel through all the national parks
+- Backpack
+	- Tour du Mont Blanc
+- Cooking
+- Acroyoga
+- Dancing
+	- salsa
+	- swing
+	- bachata
+- The Third Living Room: A cafe
+- Carnival of Love
+- Learn Jiujitsu
