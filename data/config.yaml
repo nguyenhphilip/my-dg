@@ -1,12 +1,13 @@
-name: Jacky Zhao
-enableToc: true
+name: Phil Nguyen
+enableToc: false
 description:
-  Here is the page description. This is an example Quartz site that details installation,
-  setup, customization, and troubleshooting for Quartz itself.
+  Phil Nguyen's digital garden.
 page_title:
-  Quartz Example Page
+   Phil's Digital Garden
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/NguyenHPhil
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/nguyenhphilip
+  - link_name: Substack
+    link: https://philintheblank.substack.com/
