@@ -1,6 +1,6 @@
-baseURL = "https://nguyenhphilip.github.io"
+baseURL = "https://nguyenhphilip.github.io/my-dg/"
+canonifyURLs = true
 languageCode = "en-us"
-googleAnalytics = ""
 pygmentsUseClasses = true
 relativeURLs = true
 disablePathToLower = true
