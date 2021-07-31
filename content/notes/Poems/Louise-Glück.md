@@ -1,5 +1,11 @@
 ---
-title: An-Instruction-Manual-to-Oneself
-creation date: 2021-07-29 21:21
+title: Louise Gluck
+creation date: 2020-11-09 09:05
 ---
 
+# About Louise Glück
+- [The Crimson](https://www.thecrimson.com/article/2020/11/3/louise-gluck-nobel-prize/)
+- [Poetry Foundation](https://www.poetryfoundation.org/poets/louise-gluck)
+
+# poems
+- [Matins](notes/Poems/Matins.md)
