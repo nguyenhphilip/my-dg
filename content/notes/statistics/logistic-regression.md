@@ -8,7 +8,7 @@ title: Logistic Regression
 
 - What the model finds is the probability that an observation belongs to one class or the other, given a set of independent variables. 
 
-- That probability, say $p$, is being estimated by the coefficients in the estimated regression function $$\hat{p}=\frac{e^{z}}{1+e^{z}}=\sigma(z)$$ where $z$ is the linear combination of independent variables: $$\beta_0 + {\beta_1}{x_1} + {\beta_2}{x_2} + ... + {\beta_n}{x_n}$$ and $\sigma$ is the sigmoid function.
+- That probability, say $p$, is being estimated by the coefficients in the estimated regression function $$\hat{p}=\frac{e^{z}}{1+e^{z}}=\sigma(z)$$ where $z$ is the linear combination of independent variables: $$z = \beta_0 + {\beta_1}{x_1} + {\beta_2}{x_2} + ... + {\beta_n}{x_n}$$ and $\sigma$ is the sigmoid function.
 - We can convert the probability $\hat{p}$ to log-odds units by algebraic manipulation s.t. $$logit(p)=z$$ or in odds $$\frac{p}{1-p} = e^z$$
 ## Important Concepts
 

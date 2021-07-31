@@ -2,6 +2,7 @@
 title: Poisson Distribution
 ---
 
+#flashcards 
 Great source: The Poisson Distribution and Poisson Process Explained
 
 ---
@@ -25,14 +26,14 @@ Changing $\lambda$ changes the number of expected events per time interval.
 
 # An example
 
-If we expect, say, 5 meteors per hour, on average, or 1 every 12 minutes, and we want to watch the meteor shower for one hour, then we can expect to see ==5== meteors in that duration. #flashcards
+If we expect, say, 5 meteors per hour, on average, or 1 every 12 minutes, and we want to watch the meteor shower for one hour, then we can expect to see ==5== meteors in that duration. 
 <!--SR:!2021-08-27,31,250--> 
 
-Mathematically: $$\lambda = \frac{\text{\# of events (meteors)}}{\text{duration of interval}}{\cdot}{\text{(total duration of meteor watching)}}$$ 
+Mathematically: $$\lambda = \frac{\text{num of events (meteors)}}{\text{duration of interval}}{\cdot}{\text{(total duration of meteor watching)}}$$ 
 
 $$ = \frac{1 \text{ meteor}}{\text{12 minutes}}{\cdot}60\text{ minutes} = 5 \text{ meteors expected in 60 minutes of watching}$$
 
-Then the probability of observing $k=3$ meteors in an hour is: $$P(k=3)=e^{-5}\frac{5^3}{3!}=14.0\text{\%}=\frac{1}{7}$$
+Then the probability of observing $k=3$ meteors in an hour is: $$P(k=3)=e^{-5}\frac{5^3}{3!}=0.14=\frac{1}{7}$$
 
 So in a week, you'd expect to see 3 meteors in an hour of watching on one of those days.
 

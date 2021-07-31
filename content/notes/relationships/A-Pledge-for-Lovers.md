@@ -2,7 +2,9 @@
 title: A Pledge for Lovers
 ---
 
-# [A Pledge for Lovers](https://www.theschooloflife.com/thebookoflife/a-pledge-for-lovers/)
+[Source](https://www.theschooloflife.com/thebookoflife/a-pledge-for-lovers/): From the School of Life
+
+---
 
 The surest indicator of the success of a relationship is not whether or not there are arguments, moments of fury, stretches of loneliness or incidents of betrayal. It is, quite simply, whether or not two people want to be together.  
   

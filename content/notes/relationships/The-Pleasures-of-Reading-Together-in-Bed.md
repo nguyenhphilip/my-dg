@@ -3,7 +3,9 @@ title: The Pleasures of Reading Together in Bed
 creation date: 2021-06-08 15:42
 ---
 
-# The Pleasure of Reading Together in Bed
+A nice article to come back to, on the simple joys of a long-term relationship. It may be my favorite thing to do.
+
+---
 
 A bedroom at around 9pm. It’s quiet, save for the rustle of the leaves in the garden outside.
 
@@ -17,7 +19,7 @@ There is – blessedly – no need to say anything at all.
 
 And so it goes, for what might be an hour or more.
 
-It’s modest, comfortableconfortable and sweet. And it is, of course, a pleasure that our society is almost congenitally prone not to notice or respect.
+It’s modest, comfortable and sweet. And it is, of course, a pleasure that our society is almost congenitally prone not to notice or respect.
 
 When we’re invited to picture what a relationship might be for, we imagine typically colourful scenarios: passionate sex up against a wall, a celebration of a triumph at work, heading for the airport for a mini-break, the mutual exploration of one another’s souls.
 
@@ -25,8 +27,8 @@ And yet when the true pleasures of long-term love are assessed, a rather differe
 
 It’s within such a list of hidden pleasures that we find the joy of reading in bed together. It represents in its own way a major psychological skill. There’s not really anyone else we could do this with. If the world were fairer, we would seek partners not just who can perform spectacular sexual antics and look hot in a bar, but also those with whom we could one day turn pages in silence.
 
-To [reading](notes/ideas/reading.md) together is symbolic of being able to share our true selves without shame, embarrassment or the need to perform. We are, as we lie in bed together, as we so seldom are in the rest of life, simply _accepted_.
+To [read](notes/ideas/reading.md) together is symbolic of being able to share our true selves without shame, embarrassment or the need to perform. We are, as we lie in bed together, as we so seldom are in the rest of life, simply _accepted_.
 
 Long-term [relationships](notes/relationships/relationships.md) are, inevitably, deeply complicated enterprises. Two ambitious, independent authentic people cannot hope to join their lives together without a huge amount of friction and pain.
 
-We tend to be so much aware of the troubles, we sometimes take the peaceable moments for granted, failing to appreciate their underlying achievement. It may lack glamour, but being able to read in bed together with someone is a major milestone; and a sign of deep affection. We may be doing better than we think.
+We tend to be so much aware of the troubles, we sometimes take the peaceable moments for granted, failing to appreciate their underlying achievement. **It may lack glamour, but being able to read in bed together with someone is a major milestone; and a sign of deep affection.** We may be doing better than we think.
