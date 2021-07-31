@@ -13,3 +13,4 @@ creation date: 2021-07-29 15:24
 - [omega 3 fatty acids](notes/health/omega-3-fatty-acids.md)
 - [smoking](notes/health/smoking.md)
 - [The Ideal Day Andrew Huberman](notes/health/The-Ideal-Day-Andrew-Huberman.md)
+- 
