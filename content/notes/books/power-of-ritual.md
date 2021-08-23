@@ -1,6 +1,5 @@
 ---
-title: The Power of Ritual: Turning Everyday Activities Into Soulful Practices
-creation date: 2021-08-17 15:39
+title: The Power of Ritual - Turning Everyday Activities Into Soulful Practices
 tags: [meaning, habits, psychology]
 ---
 
