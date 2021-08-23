@@ -8,13 +8,13 @@ Multicollinearity refers to two or more predictor variables that are correlated 
 
 What's the problem with correlated predictors in [linear regression](notes/statistics/linear-regression.md)? It can be misleading.
 
->  The consequence of multicollinearity is that ==the posterior distribution will seem to suggest that none of the variables is reliably associated with the outcome, even if all of the variables are in reality strongly associated with the outcome.== This frustrating phenomenon arises from the details of how [linear regression](notes/statistics/linear-regression.md) works.
+>  The consequence of multicollinearity is that ==the posterior distribution will seem to suggest that none of the variables is reliably associated with the outcome, even if all of the variables are in reality strongly associated with the outcome.== This frustrating phenomenon arises from the details of how linear regression works.
 >  
 >    In fact, there is nothing wrong with multicollinearity. The model will work fine for prediction (see: [Collinearity isnt une maladie that needs curing](notes/statistics/Collinearity-isnt-une-maladie-that-needs-curing.md)). ==You will just be frustrated trying to understand it.== The hope is that once you understand multicollinearity, you will better understand regression models in general.
 
-Example: predicting height using the length of BOTH legs in a [multiple linear regression](notes/statistics/linear-regression.md) model.
+Example: predicting height using the length of BOTH legs in a multiple linear regression.
 
-[Multiple linear regression](notes/statistics/linear-regression.md) answers the question of: what new information do we gain about each predictor, given that we know the value of all the other predictors?
+Multiple linear regression answers the question of: what new information do we gain about each predictor, given that we know the value of all the other predictors?
 
 Mathematically, we want to know each beta value: 
 
