@@ -46,7 +46,7 @@ $$(h*f)(t) = \int h(\tau)f(t-\tau)d\tau$$
 To do this we must estimate a good $f$, the HRF.
 
 Commonly used for the HRF is a double-gamma HRF. The first gamma function models the shape of the initial stimulus response and the second gamma function models the ==postimulus undershoot== (including this in the model was found to improve the shape).
-<!--SR:!2021-07-20,5,230-->
+<!--SR:!2021-09-19,38,230-->
 
 However, if we only use the double-gamma HRF, we are biasing results to suit this model without accounting for the wide variability between and even within individuals. So there are many other approaches that are used, but the [bias-variance tradeoff](notes/statistics/bias-variance-tradeoff.md) must be accounted for. 
 
@@ -84,7 +84,7 @@ What is one problem of (2) mass univariate analytical techniques?
 
  ## Beta Weights
  What are beta weights?::Beta weights tell you how much the bold signal changes under a given experimental condition or stimulus (i.e. when $x_1=1$, the condition where subjects are viewing a sentence, a beta weight of $\beta_1=1.2$ means that the signal increases by 1.2 units.
-<!--SR:2021-08-06,10,230-->
+<!--SR:2021-09-11,30,230-->
  
  ## BOLD Error
 We can think about the approximated BOLD signal as our prediction plus some error: $$\text{signal(t)} = \text{prediction(t)} + \text{error(t)}$$ . This is equivalent to saying that the signal at time $t$ is the combination of explained variation by our model, plus some noise.

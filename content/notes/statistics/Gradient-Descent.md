@@ -24,15 +24,24 @@ If we take the derivative of the loss function with respect to the weights, we g
 
 $$\frac{dL}{dW} = \sum_i 2(x_i + x_i^2)(wx_i + wx_i^2 -y_i)$$
 
-which is the gradient or slope along the loss function, given a weight value.
+which is the gradient of the loss function.
 
-The gradient vector is a vector that stores the slope of each parameter of the loss function. We need to move in the opposite direction of the gradient in order to minimize the loss function.
+The gradient is a vector that contains the slope of each parameter of the loss function at a given iteration.
+
+Gradient descent uses the gradient of the loss function to update our weights in a way as to minimize the loss function.
+
+This is an iterative process that looks something like:
+
+```
+# update with 1 step
+1) w_t+1 = w_t - gradient of loss function L(w_t) * l_r
+```
 
 # algorithm
-1. Define loss function to measure performance
-2. Find gradient (derivative with respect to multiple parameters) of the loss function
+1. Define loss function to measure performance: $L$
+2. Find gradient (derivative with respect to multiple parameters) of the loss function e.g. $\nabla{L}$
 3. Initialize weights (usually random, gives GD a starting point)
-4. plug weights into the gradient
-5. update weights by adding the step size (-[gradient you just calculated] * [learning rate]) to each of the current weights
+4. plug weights into the gradient $\nabla{L(W)}$
+5. update weights by adding the step size (i.e. $w_{t+1} = w_{t} - lr*\nabla{L(W)}$) to each of the current weights
 6. calculate new cost loss function using updated weights
 7. repeat 4-6

@@ -1,14 +1,10 @@
-Relationships are often portrayed as movie moments and tacky polaroid shots hanging from the walls of a New York City flat. Yet as anyone who has loved and been loved can attest, these snapshots capture only the surface. What's tucked away in the subtext is the work, the cycles rupture and repair, the boring and ordinary and rapturous messiness involved in building an intimate existence with another.
+Relationships are often portrayed as movie moments and tacky polaroid shots hanging from the walls of a New York City flat. Yet as anyone who has loved and been loved can attest, these snapshots capture only the surface. What's tucked away in the subtitles is the work, the cycles rupture and repair, the boring and ordinary messiness involved in building an intimate existence with another.
 
 How C and I met really was like something out of a movie. We joked about it a lot and are still amazed by how it happened. So it surprised me when I started feeling ambivalent toward the affection she was giving me. Something about my reaction felt familiar, but I didn't know why. 
 
-This led to doubts about the relationship, and I nearly ended it. 
+This led to doubts about the relationship, and continues to do so. 
 
-It didn't make sense, but I couldn't let the doubts go.
-
-I tried to let the thoughts go, but I couldn't. They grew and consumed every waking hour as the week progressed. I felt trapped and alone and wanted to run away, 
-
-I was confused and hurting because I loved her deeply, but there was a [[you are not your thoughts|familiar taste to my disturbing thoughts]]. For a week I couldn't let them go, they consumed my every waking hour and , which nearly led to a premature breakup. 
+I was confused and hurting because I loved her deeply, but there was a familiar taste to my disturbing thoughts. For a week I couldn't let them go, they consumed my every waking hour and , which nearly led to a premature breakup. 
 
 (from changing my the theme and appearance of my blog instead of writing more content and taking the substance more seriously; dropping otu of grad school; past relationships; projects that began as exciting but soon quit thereafter once they got hard or boring)
 
@@ -39,8 +35,6 @@ To do the opposite then is to choose to deeply commit to something. It requires 
 > [It] may be the very essence of being human, of being on the journey from here to there, and of coming to care deeply for what we find along the way.
 
 Committing – to a work, to a place, to a life, to another – that *is* love. 
-
-
 
 there's knowledge now. we see each other more clearly and realize that there is still so much to learn about one another. This requires a sort of daily recommitment, in small and large ways. This time it was large, the result of my own issues. That's what love is. Choosing to stay in and continue playing the game.
 

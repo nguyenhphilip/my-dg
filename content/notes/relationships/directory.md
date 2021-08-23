@@ -6,7 +6,7 @@ creation date: 2021-07-29 15:31
 # notes on relationships
 - [Am I Too Picky To Find Love](notes/relationships/Am-I-Too-Picky-To-Find-Love.md)
 - [An Instruction Manual to Oneself](notes/relationships/An-Instruction-Manual-to-Oneself.md)
-- [Be The Change You Want to See](notes/relationships/Be-The-Change-You-Want-to-See.md)
+	- [Be The Change You Want to See](notes/relationships/Be-The-Change-You-Want-to-See.md)
 - [date ideas](notes/relationships/date-ideas.md)
 - [Maybe Friendship Should Be at the center of Life](notes/relationships/friends-marriage.md)
 - [Love as a Way of Being](notes/relationships/Love-as-a-Way-of-Being.md)

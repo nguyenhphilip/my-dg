@@ -12,14 +12,14 @@ If pressed for details, they will have no difficulty coming up with a list: thei
 -   Plays tennis every Wednesday evening, no matter what
 -   Doesn’t like Moroccan food
 -   Doesn’t share their enthusiasm for 19th century Russian novels 
--   Has a friendun ami who laughs for no apparent reason
+-   Has a friend who laughs for no apparent reason
 -   Likes doing jigsaws
 -   Drinks coffee from a big mug with ‘1984’ inscribed on the side
 -   Has a habit of adding ‘actually’ to every second sentence, when it’s _actually_ redundant
 
 As the list gets longer, they sigh; they still love their partner and long to be happy together, it’s just that it seems impossibly complicated to make this relationship work.  
 
-What’s driving the frustration isn’t that they’ve sadly fallen for an idiot as a mate; it’s rather that we have all inherited needlessly complicated ideasidées of what a relationship is supposed to be for. We are told that love is meant to involve the almost total merger of two lives: we expect that a loving couple must live in the same house, eat the same mealsrepas together every night, share the same bed, go to sleep and get up at the same time; only ever have sex with (or even sexual thoughts about) each other, regularly see each others’ families, have all their friendsamis in commoncommuns – and pretty much think the same thoughts on every topic at every moment.  
+What’s driving the frustration isn’t that they’ve sadly fallen for an idiot as a mate; it’s rather that we have all inherited needlessly complicated ideas of what a relationship is supposed to be for. We are told that love is meant to involve the almost total merger of two lives: we expect that a loving couple must live in the same house, eat the same meals together every night, share the same bed, go to sleep and get up at the same time; only ever have sex with (or even sexual thoughts about) each other, regularly see each others’ families, have all their friendsamis in commoncommuns – and pretty much think the same thoughts on every topic at every moment.  
 
 ![](https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2020/07/baselitz5-1024x768.jpg)
 

@@ -13,18 +13,20 @@ tags: [statistics]
 
 ### Why not just add all of your predictors to a model?
 
-==[multicollinearity](notes/statistics/multicollinearity.md)==: when two or more predictor variables that are correlated with each other, the results can be misleading. 
+#### [multicollinearity](notes/statistics/multicollinearity.md) 
+when two or more predictor variables that are correlated with each other, the results can be misleading. 
 <!--SR:!2021-09-06,39,250--> 
 
 > When two predictor variables are very strongly correlated, including both in a model may lead to confusion. The posterior distribution isn’t wrong, in such cases. It’s telling you that the question you asked cannot be answered with these data. And that’s a great thing for a model to say, that it cannot answer your question. 
 
-[post-treatment-bias](notes/statistics/post-treatment-bias.md): including post-treatment variables can 'mask' the effect of a predictor. (e.g. including fungus in a regression model that has treatment)
+#### [post treatment bias](notes/statistics/post-treatment-bias.md)
+including post-treatment variables can 'mask' the effect of a predictor. (e.g. including fungus in a regression model that has treatment)
 
-==[collider-bias](notes/statistics/collider-bias.md):== a spurious correlation between two variables that arises when you condition on a variable that both of them have directed arrows towards. e.g. A->C<-B
+#### ==[collider bias](notes/statistics/collider-bias.md)== 
+a spurious correlation between two variables that arises when you condition on a variable that both of them have directed arrows towards. e.g. A->C<-B
 <!--SR:!2021-08-09,13,250-->
 
 Generally these issues are examples of confounding. 
-
 
 ### Shutting the backdoor
 To isolate the causal path between a predictor and an outcome we have to control for these confounding factors. How? By ==shutting the backdoor.==
@@ -54,13 +56,21 @@ By conditioning on U, knowing E doesn't give us anymore info about W (assuming t
 
 > There are only four types of variable relations that combine to form all possible paths. So you really only need to understand four things and how information flows in each of them.
 
-**Forks**, the classic confounder: X <- Z -> Y. A variable Z generates a correlation between X and Y. Conditioning on Z, X and Y become independent (Y\_||\_ X|Z) -- we learn nothing about X if we know Y given Z. Conditioning on Z blocks the path from X and Y.
+##### Forks
+ X <- Z -> Y
+ 
+The classic confounder. A variable Z generates a correlation between X and Y. Conditioning on Z, X and Y become independent (Y\_||\_ X|Z) -- we learn nothing about X if we know Y given Z. Conditioning on Z blocks the path from X and Y.
 
-**Pipes**: X->Z->Y. Treatment X influences Z which influences Y. If we condition on Z, then we block (d-separate) the path between X and Y.
+##### Pipes
+X->Z->Y
+Treatment X influences Z which influences Y. If we condition on Z, then we block (d-separate) the path between X and Y.
 
-**Colliders**: X->Z<-Y. No association between X and Y unless you condition on Z. The path between X and Y opens when you condition on Z.
+##### Colliders
+X->Z<-Y
+No association between X and Y unless you condition on Z. The path between X and Y opens when you condition on Z.
 
-**Descendent conditioning**: conditioning on a descendent variable is like conditioning on its ascendent, but weaker. Say D -> Z, and X->Z<-Y. Conditioning on D is like conditioning on Z, but weaker. It partially opens the path between X and Y because Z is a collider.
+##### Descendent conditioning
+conditioning on a descendent variable is like conditioning on its ascendent, but weaker. Say D -> Z, and X->Z<-Y. Conditioning on D is like conditioning on Z, but weaker. It partially opens the path between X and Y because Z is a collider.
 
 ##### Closing the door
 > No matter how complicated a causal DAG appears, it is always built out of these four types of relations. And since you know how to open and close each, you (or your computer) can figure out which variables you need to control—or not—in order to shut the backdoor. Here’s the recipe:
@@ -100,7 +110,7 @@ In the second case B is a collider and is already closed. Opening it would not b
 ![Pasted image 20210616094949.png](/notes/images/20210616094949.png)
 
 ---
-# See also [Common statistical tests are linear models](notes/statistics/Common-statistical-tests.md)
+See also [Common statistical tests are linear models](notes/statistics/Common-statistical-tests.md)
 
 ---
 
